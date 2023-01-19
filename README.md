@@ -1,2 +1,2 @@
-# Temperature-converter-
+# Temperature-converter
 Temperature converter ( HTML, CSS, JavaScript )
